@@ -1,0 +1,16 @@
+# Build dir
+build
+
+# Node modules
+node_modules
+
+# Directory for storing tmp files
+tmp
+server/tmp
+
+# Environment variables, never commit this file
+.env
+server/.env
+
+# The development sqlite file
+server/database/development.sqlite

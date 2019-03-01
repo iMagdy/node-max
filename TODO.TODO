@@ -1,0 +1,11 @@
+ReadMe:
+  - Better readme, explain all npm scripts and configs.
+
+Docker:
+  - Build a docker-compose file to include the API, FE, and the DB for quick start.
+
+Automation:
+  - Complete run/build scripts.
+
+Get started:
+  - Create a GH page for quick start guide.
